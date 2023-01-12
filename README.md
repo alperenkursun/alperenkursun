@@ -5,6 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://alperenkursun.netlify.app/](https://alperenkursun.netlify.app/)
 
+- 🔭 I’m currently working on [special-security-website-project](https://github.com/alperenkursun/special-security-website-project)
+
+- 🌱 I’m currently learning **Redux**
+
 - 📫 How to reach me **alperenkursun@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
