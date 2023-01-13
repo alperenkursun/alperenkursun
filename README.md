@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [special-security-website-project](https://github.com/alperenkursun/special-security-website-project)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning [Redux](https://app.patika.dev/alpk)
 
 - 📫 How to reach me **alperenkursun@yandex.com**
 
