@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning [Redux ](https://app.patika.dev/alpk)<img  alt="Coding" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
+- 🌱 I’m currently learning [Node.js ](https://app.patika.dev/alpk)<img  alt="Coding" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+
 
 - 📫 How to reach me **alperenkursun@yandex.com**
 
