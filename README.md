@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [special-security-website-project](https://github.com/alperenkursun/special-security-website-project)
 
-- 🌱 I’m currently learning [Node.js ](https://app.patika.dev/alpk)<img  alt="Coding" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+- 🌱 I’m currently learning [React Native ](https://app.patika.dev/alpk)<img  alt="Coding" width="20" src="https://reactnative.dev/img/header_logo.svg">
 
 
 - 📫 How to reach me **alperenkursun@yandex.com**
