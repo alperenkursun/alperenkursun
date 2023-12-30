@@ -1,4 +1,4 @@
-[![image](https://r.resimlink.com/f_li5.png)
+![image](https://r.resimlink.com/f_li5.png)
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
