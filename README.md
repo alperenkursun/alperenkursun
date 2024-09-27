@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alperenkursun.netlify.app/](https://alperenkursun.netlify.app/)
 
-- 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun)
+<!-- - 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun) -->
 
 <!-- - 🌱 I’m currently learning [Optimization](https://github.com/alperenkursun) -->
 
