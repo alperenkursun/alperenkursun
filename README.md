@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun) -->
 
-<!-- - 🌱 I’m currently learning [Optimization](https://github.com/alperenkursun) -->
+- 🌱 I’m currently learning [Redux](https://redux.js.org/)
 
 - 📫 How to reach me **alperenkursun@yandex.com**
 
