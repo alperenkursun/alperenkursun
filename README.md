@@ -1,7 +1,7 @@
 ![image](https://r.resimlink.com/Go5zaUZyl.webp)
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/Ph0nw5Q.png">
+<img align="right" alt="Coding" width="250" src="https://i.imgur.com/Ph0nw5Q.png">
 
 - 👨‍💻 All of my projects are available at [https://alperenkursun.netlify.app/](https://alperenkursun.netlify.app/)
 
