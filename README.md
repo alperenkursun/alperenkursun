@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun) -->
 
-- 🌱 I’m currently learning [Docker](https://www.docker.com/)
+- 🌱 I’m currently learning [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Heroku](https://www.heroku.com/)
 
 - 📫 How to reach me **alperenkursun@yandex.com**
 
