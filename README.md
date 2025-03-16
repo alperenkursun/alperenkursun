@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun) -->
 
-- 🌱 I’m currently learning [Fundamentals of Software Engineering](https://academy.patika.dev/courses/yazilim-muhendisligi-101)
+- 🌱 I’m currently learning [Freelance and Remote Work, Business Processes](https://academy.patika.dev/courses/freelance-ve-remote-calisma-is-surecleri)
 
 - 📫 How to reach me **alperenkursun@yandex.com**
 
