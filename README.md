@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun) -->
 
-- 🌱 I’m currently learning [GraphQL](https://academy.patika.dev/courses/graphql)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 
 - 📫 How to reach me **alperenkursun@yandex.com**
 
