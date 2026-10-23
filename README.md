@@ -1,24 +1,60 @@
-![image](https://r.resimlink.com/Go5zaUZyl.webp)
-<h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="250" src="https://i.imgur.com/Ph0nw5Q.png">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:18181b,55:4c1d95,100:9333ea&text=Alperen%20Kur%C5%9Fun&fontColor=fafafa&fontSize=46&desc=Computer%20Engineer%20%26%20Frontend%20Developer&descSize=19&descAlignY=70&fontAlignY=42" alt="Alperen Kurşun Banner" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://alperenkursun.netlify.app/](https://alperenkursun.netlify.app/)
+<h2 align="center">Hi 👋, I'm Alperen</h2>
+<h4 align="center">Mühendislik disipliniyle ölçeklenebilir, modern ve performans odaklı web uygulamaları inşa ediyorum.</h4>
 
-<!-- - 🔭 I’m currently working on [Freelance Project](https://github.com/alperenkursun) -->
+<br />
 
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+<img align="right" alt="Coding" width="240" src="https://i.imgur.com/Ph0nw5Q.png" />
 
-- 📫 How to reach me **alperenkursun@yandex.com**
+- 🌐 **Portföy & Kişisel Sitem:** [alperenkursun.com.tr](https://www.alperenkursun.com.tr/)
+- 📝 **Teknik Blog Yazılarım:** [alperenkursun.com.tr/blog](https://www.alperenkursun.com.tr/blog)
+- 🔭 **Odak Noktam:** **Next.js (App Router), React 19, TypeScript & Full-Stack Mimariler**
+- 🧪 **Kalite Standartlarım:** Clean Code, SSR/SSG Optimizasyonu, Unit & E2E Test (**Vitest & Playwright**)
+- 📫 **İletişim:** **alperenkursun@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<br />
+
+### 🤝 Bağlantılarım (Connect with me):
+
 <p align="left">
-<a href="https://linkedin.com/in/alperenkursun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperenkursun" height="30" width="40" /></a>
+  <a href="https://www.alperenkursun.com.tr/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-alperenkursun.com.tr-9333ea?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/alperenkursun/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alperen%20Kur%C5%9Fun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/alperenkursun" target="_blank">
+    <img src="https://img.shields.io/badge/X-@alperenkursun-18181b?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://academy.patika.dev/tr/@alpk" target="_blank">
+    <img src="https://img.shields.io/badge/Patika.dev-@alpk-4c1d95?style=for-the-badge" alt="Patika" />
+  </a>
+  <a href="mailto:alperenkursun@outlook.com">
+    <img src="https://img.shields.io/badge/Email-alperenkursun%40outlook.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br />
 
+### 🛠️ Teknoloji Yığınım (Languages & Tools):
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenkursun&show_icons=true&locale=en&layout=compact" alt="alperenkursun" /></p>
+#### **Frontend & UI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,bootstrap,styledcomponents,html,css&perline=11" alt="Frontend Skills" />
+</p>
 
+#### **Backend, Veritabanı & DevOps / Test**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,graphql,redis,docker,vitest,git,github,vercel,postman,figma&perline=14" alt="Backend & Tools Skills" />
+</p>
+
+<br />
+
+### 📊 GitHub İstatistiklerim:
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenkursun&show_icons=true&locale=en&layout=compact&bg_color=18181b&title_color=c084fc&text_color=fafafa&icon_color=9333ea&hide_border=true" alt="Top Languages" />
+</div>
