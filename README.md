@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:18181b,55:4c1d95,100:9333ea&text=Alperen%20Kur%C5%9Fun&fontColor=fafafa&fontSize=46&desc=Computer%20Engineer%20%26%20Frontend%20Developer&descSize=19&descAlignY=70&fontAlignY=42" alt="Alperen Kurşun Banner" />
+  <a href="https://www.alperenkursun.com.tr">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&size=32&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=70&lines=Alperen+Kur%C5%9Fun;Computer+Engineer;Frontend+%26+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 <h2 align="center">Hi 👋, I'm Alperen</h2>
@@ -25,12 +27,6 @@
   </a>
   <a href="https://www.linkedin.com/in/alperenkursun/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alperen%20Kur%C5%9Fun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/alperenkursun" target="_blank">
-    <img src="https://img.shields.io/badge/X-@alperenkursun-18181b?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://academy.patika.dev/tr/@alpk" target="_blank">
-    <img src="https://img.shields.io/badge/Patika.dev-@alpk-4c1d95?style=for-the-badge" alt="Patika" />
   </a>
   <a href="mailto:alperenkursun@outlook.com">
     <img src="https://img.shields.io/badge/Email-alperenkursun%40outlook.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
